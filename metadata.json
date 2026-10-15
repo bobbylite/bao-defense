@@ -1,0 +1,6 @@
+{
+  "name": "Bao Defense: Ramen Bowl Siege",
+  "description": "An action-packed ramen bowl tower defense game where you defend Bao, the steamed pork bun, from hungry ramen topping waves using fiery spice towers and chili oil fortifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
